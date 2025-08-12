@@ -1,5 +1,5 @@
 {
-  "name": "@hana-30/hide-name",
+  "name": "@hana30/hide-name",
   "version": "1.0.0",
   "description": "Function to mask name",
   "main": "index.js",
